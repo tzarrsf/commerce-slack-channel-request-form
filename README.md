@@ -2,7 +2,7 @@
 
 ## Description
 
-> This is an autoresponder for Slack Channel submissions across the Commerce Products as well as an aggregator ro collecting the data to process manually (for now) or push to a future slack API.
+> This is an autoresponder for Slack Channel submissions across the Commerce Products as well as an aggregator for collecting the data to process manually (for now) or push to a future slack API.
 
 ## Configuration
 Run as AF, Notify Immediately on Error, onFormSubmit throughout
